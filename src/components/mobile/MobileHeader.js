@@ -36,6 +36,7 @@ const Container = styled.div`
                     li{
                         list-style: none;
                         margin-bottom: 2rem;
+                        color: #A9C1E2;
                         a{
                             text-decoration: none;
                             color: #A9C1E2;
@@ -48,6 +49,14 @@ const Container = styled.div`
                 margin: auto;
                 margin-top: 2rem;
             }
+            .longIsland{
+                margin-top: -1rem;
+                margin-bottom: 1rem;
+                li{
+                    margin: .2rem;
+                    font-size: 1rem;
+                }
+            }
         }
     }
 
@@ -56,6 +65,8 @@ const Container = styled.div`
 const MobileHeader = () => {
 
     const [isMenuOpen,setMenuOpen] = useState(false);
+    const [liSubmenu,setLiSubMenu] = useState(false);
+    const [nySubMenu,setNySubMenu] = useState(false);
 
     const handleMenu = () =>{
         if(isMenuOpen){
@@ -65,6 +76,22 @@ const MobileHeader = () => {
         }
     }
 
+    const handleLiMenu = () =>{
+        if(!liSubmenu){
+            setLiSubMenu(true)
+        }else{
+            setLiSubMenu(false)
+        }
+    }
+
+    const handleNyMenu = () =>{
+        if(!nySubMenu){
+            setNySubMenu(true)
+        }else{
+            setNySubMenu(false)
+        }
+    }
+ 
     return (
         <Container>
             <header>
@@ -82,8 +109,27 @@ const MobileHeader = () => {
                     <ul>
                         <li><NavLink  activeStyle={{ color: '#CBD9F6' }} to="/"> HOME</NavLink></li>
                         <li><NavLink  to="/"> ABOUT</NavLink></li>
-                        <li><NavLink  to="/"> LONG ISLAND</NavLink></li>
-                        <li><NavLink  to="/"> NEW YORK</NavLink></li>
+                        <li onClick={handleLiMenu}>LONG ISLAND</li>
+                        {liSubmenu?
+                                <ul className="longIsland animate__animated animate__fadeInLeft">
+                                <li><NavLink to="/">Annual exports by County</NavLink></li>
+                                <li><NavLink to="/">Exports by industry</NavLink></li>
+                                <li><NavLink to="/">Foreign Direct Investments</NavLink></li>
+                                <li><NavLink to="/">Economic Overview</NavLink></li>
+                            </ul>
+                            :
+                            null
+                        }
+                        <li onClick={handleNyMenu}>NEW YORK</li>
+                        {nySubMenu?
+                                <ul className="longIsland animate__animated animate__fadeInLeft">
+                                <li><NavLink onClick={handleMenu} to="/newyork/export">NYS Export</NavLink></li>
+                                <li><NavLink to="/">NYS Import</NavLink></li>
+                                <li><NavLink to="/">Service Export</NavLink></li>
+                            </ul>
+                            :
+                            null
+                        }
                         <li><NavLink  to="/"> CONTACT</NavLink></li>
                         <li><NavLink  to="/"> OUR TEAM</NavLink></li>
                     </ul>
@@ -91,7 +137,7 @@ const MobileHeader = () => {
                     <img src={Lighthouse} alt="lighthouse"/>
                 </div>
                 :null
-            }    
+            }
             </header>
         </Container>
     );
