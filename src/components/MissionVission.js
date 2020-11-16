@@ -21,6 +21,7 @@ const Container = styled.div`
         text-align: center;
         color: #29446B;
         font-size: 1.2rem;
+        font-family: proxima-nova, sans-serif;
     }
     .imgContainer{
         img{
