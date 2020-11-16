@@ -8,14 +8,19 @@ import MenuIcon from '@material-ui/icons/Menu';
 import ClearIcon from '@material-ui/icons/Clear';
 
 const Container = styled.div`
+    @media (min-width: 768px){
+        display: none;
+    }
     header{
         .menuBtn{
-            svg{
-                width: 35px;
+            
+                font-size: 1.5rem;
                 position: absolute;
                 left: 10px;
                 top: 10px;
                 z-index: 100;
+            .close{
+                color: white;
             }
         }
         .menu{
@@ -67,39 +72,12 @@ const MobileHeader = () => {
     const [isMenuOpen,setMenuOpen] = useState(false);
     const [liSubmenu,setLiSubMenu] = useState(false);
     const [nySubMenu,setNySubMenu] = useState(false);
-
-    const handleMenu = () =>{
-        if(isMenuOpen){
-            setMenuOpen(false)
-        }else{
-            setMenuOpen(true)
-        }
-    }
-
-    const handleLiMenu = () =>{
-        if(!liSubmenu){
-            setLiSubMenu(true)
-        }else{
-            setLiSubMenu(false)
-        }
-    }
-
-    const handleNyMenu = () =>{
-        if(!nySubMenu){
-            setNySubMenu(true)
-        }else{
-            setNySubMenu(false)
-        }
-    }
  
     return (
         <Container>
             <header>
-                <div className="menuBtn">
-                    {isMenuOpen ?
-                        <ClearIcon onClick={handleMenu} />
-                    :
-                        <MenuIcon  onClick={handleMenu} />}
+                <div className="menuBtn" onClick={()=>setMenuOpen(!isMenuOpen)}>
+                    <i className={isMenuOpen?'fas fa-times close':'fas fa-bars'}></i>
                 </div>
 
                 {
@@ -109,7 +87,7 @@ const MobileHeader = () => {
                     <ul>
                         <li><NavLink  activeStyle={{ color: '#CBD9F6' }} to="/"> HOME</NavLink></li>
                         <li><NavLink  to="/"> ABOUT</NavLink></li>
-                        <li onClick={handleLiMenu}>LONG ISLAND</li>
+                        <li onClick={()=>setLiSubMenu(!liSubmenu)}>LONG ISLAND</li>
                         {liSubmenu?
                                 <ul className="longIsland animate__animated animate__fadeInLeft">
                                 <li><NavLink to="/">Annual exports by County</NavLink></li>
@@ -120,10 +98,10 @@ const MobileHeader = () => {
                             :
                             null
                         }
-                        <li onClick={handleNyMenu}>NEW YORK</li>
+                        <li onClick={()=>setNySubMenu(!nySubMenu)}>NEW YORK</li>
                         {nySubMenu?
                                 <ul className="longIsland animate__animated animate__fadeInLeft">
-                                <li><NavLink onClick={handleMenu} to="/newyork/export">NYS Export</NavLink></li>
+                                <li><NavLink onClick={()=>setMenuOpen(!isMenuOpen)} to="/newyork/export">NYS Export</NavLink></li>
                                 <li><NavLink to="/">NYS Import</NavLink></li>
                                 <li><NavLink to="/">Service Export</NavLink></li>
                             </ul>
