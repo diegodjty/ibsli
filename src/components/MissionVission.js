@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from '@emotion/styled';
+import { About } from '../img';
 
 const Container = styled.div`
 
@@ -21,6 +22,11 @@ const Container = styled.div`
         color: #29446B;
         font-size: 1.2rem;
     }
+    .imgContainer{
+        img{
+            width: 100%;
+        }
+    }
     button{
             border: none;
             background-color: #7EC2EB;
@@ -35,6 +41,23 @@ const Container = styled.div`
             margin-top: 3rem;
             margin-bottom: 2rem;
         }
+
+    @media (min-width: 768px){
+        max-width: 1424px;
+        width: 50%;
+        margin: auto;
+        p{
+
+            font-size: 1.4rem;
+        }
+        button{
+            width: 30%;
+        }
+        .imgContainer{
+            width: 80%;
+            margin: 2rem auto;
+        }
+    }
 `;
 
 
@@ -50,7 +73,7 @@ const MissionVission = () => {
                to examine the business environment for foreign direct
                investment in the region.</p>
             <div className="imgContainer">
-                <img src="" alt=""/>
+                <img src={About} alt="about"/>
             </div>
             <h2>2020 LI Business
                 Development Report

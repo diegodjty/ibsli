@@ -2,8 +2,6 @@ import React from 'react';
 import styled from "@emotion/styled";
 import { HeroImg } from '../img';
 
-
-
 const Container = styled.div`
     
     background-color: #F6F8FD;
@@ -40,6 +38,19 @@ const Container = styled.div`
             width: 40%;
             margin: auto;
             margin-top: 2rem;
+            font-family: 'Montserrat';
+            font-weight: bold;
+
+        }
+        @media (min-width: 768px){
+            width: 25%;
+            button{
+                margin: 0;
+                font-size: 1rem;
+                cursor: pointer;
+                width: 50%;
+                padding: .5rem 2rem;
+            }
         }
     }
     .second-section{
@@ -52,30 +63,45 @@ const Container = styled.div`
                 width: 100%;
             }
         }
+        @media (min-width: 768px){
+            width: 55%;
+        }
     }
 
+
+    @media (min-width: 768px){
+        padding: 5rem;
+        .cont{
+            display: flex;
+            max-width: 1424px;
+            margin: auto;
+        }
+        
+    }
 `;
 
 const Hero = () => {
     return (
         <Container>
-            <div className="first-section">
-                <h1>International
-                    Business Solutions
-                    For <span>Long Island</span>
-                </h1>
-                <p>Providing International market
-                    intelligence and educational
-                    services for the local business
-                    community
-                </p>
-                <button>
-                    Learn More
-                </button>
-            </div>
-            <div className="second-section">
-                <div className="imgContainer">
-                    <img src={HeroImg} alt=""/>
+            <div className="cont">
+                <div className="first-section">
+                    <h1>International
+                        Business Solutions
+                        For <span>Long Island</span>
+                    </h1>
+                    <p>Providing International market
+                        intelligence and educational
+                        services for the local business
+                        community
+                    </p>
+                    <button>
+                        Learn More
+                    </button>
+                </div>
+                <div className="second-section">
+                    <div className="imgContainer">
+                        <img src={HeroImg} alt=""/>
+                    </div>
                 </div>
             </div>
         </Container>
