@@ -3,7 +3,8 @@ import MobileHeader from './components/mobile/MobileHeader';
 import ScrollToTop from './components/ScrollToTop';
 
 import Homepage from './pages/Homepage'
-import Export from './pages/NewYork/Export';
+import NyExport from './pages/NewYork/NyExport';
+import LiExport from './pages/LongIsland/LiExport';
 import Header from './components/Header'
 
 import {
@@ -20,7 +21,8 @@ function App() {
       <Header />
         <Switch>
           <Route exact path="/" component={Homepage}/>
-          <Route exact path="/newyork/export" component={Export}/>
+          <Route exact path="/newyork/export" component={NyExport}/>
+          <Route exact path="/longisland/export" component={LiExport}/>
         </Switch>
       {/* <Footer /> */}
   </HashRouter>

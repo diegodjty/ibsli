@@ -65,6 +65,9 @@ const Container = styled.div`
         }
         @media (min-width: 768px){
             width: 55%;
+            .imgContainer{
+                animation: upanddown 5s infinite 0s linear;
+            }
         }
     }
 
@@ -78,6 +81,14 @@ const Container = styled.div`
         }
         
     }
+    @keyframes upanddown{
+    0%{
+        transform: rotate(xx) translateY(50px);
+        }
+    50%{
+        transform: translateY(-50px);
+        }
+}
 `;
 
 const Hero = () => {

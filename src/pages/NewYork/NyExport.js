@@ -31,7 +31,7 @@ const Container = styled.div`
 
 
 
-const Export = () => {
+const NyExport = () => {
     const [content, setContent] = useState("");
     return (
         <Container>
@@ -41,4 +41,4 @@ const Export = () => {
     );
 };
 
-export default Export;
+export default NyExport;

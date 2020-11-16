@@ -14,12 +14,13 @@ import map from '../../map/worldmap.json';
 
 
 
-  const CompsMap = styled(ComposableMap)`
-    width: 100%;
-    height: 100%;
-  `;
+  
   const Container = styled.div`
     font-family: 'Montserrat';
+    width: 100%;
+    margin: auto;
+    max-width: 1424px;
+    height: auto;
     h2{
         margin: 3rem auto 1rem auto;
         width: 90%;
@@ -36,8 +37,29 @@ import map from '../../map/worldmap.json';
             appearance: none;
         }
     }
-  `;
 
+    @media (min-width:768px){
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      h2{
+        margin-left: 0;
+      }
+      .year-container{
+        width: 20%;
+        margin-left: 0;
+      }
+    }
+  `;
+const CompsMap = styled(ComposableMap)`
+  width: 100%;
+  height: 100%;
+  @media (min-width: 768px){
+    width: 70%;
+    margin: auto;
+  }
+`;
 
   const ExportMap = ({ setTooltipContent }) => {
     const [geoUrl,setGeoUrl] = useState(map)
@@ -56,8 +78,14 @@ import map from '../../map/worldmap.json';
     }
 
     const colorScale = scaleLinear()
-    .domain([0, 17063513012])
-    .range(["#CCDAF7", "#2F296B"]);
+    .domain([0,
+             4265878253,
+             8531756506,
+             17063513012])
+    .range(["#CCDAF7",
+            "#7E8CEB",
+            "#5659B0",
+            "#2F296B"]);
 
     const rounded = num => {
         if (num > 1000000000) {
@@ -107,7 +135,7 @@ import map from '../../map/worldmap.json';
                         onMouseLeave={() => {
                             setTooltipContent("");
                         }}
-                        fill={d ? colorScale(d[year]): 'gray'}
+                        fill={d ? colorScale(d[year]): 'white'}
                         style={
                             {
                             hover: {

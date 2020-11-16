@@ -49,6 +49,9 @@ const Container = styled.div`
                     i{
                         margin: .5rem;
                     }
+                    :hover{
+                        color: #5686B0;
+                    }
                     .dropdown{
                         border: solid lightgray 1px;
                         background-color: white;
@@ -58,6 +61,12 @@ const Container = styled.div`
                         li{
                             margin: 1rem;
                             font-size: 1rem;
+                            :hover{
+                                background-color: #94C1E9;
+                                a{
+                                    color: white;
+                                }
+                            }
                         }
                     }
                 }
@@ -87,7 +96,7 @@ const Header = () => {
                 <nav>
                     <ul>
                         <li><NavLink to='/'>HOME</NavLink></li>
-                        <li onClick={()=>setAboutDrop(!aboutDrop)}>ABOUT<i class="fas fa-caret-down" />
+                        <li onMouseLeave={()=>setAboutDrop(!aboutDrop)} onMouseEnter={()=>setAboutDrop(!aboutDrop)}>ABOUT<i class="fas fa-caret-down" />
                             {aboutDrop &&(
                                 <nav className="dropdown animate__animated animate__fadeIn">
                                 <li><NavLink to='.'>Dropdown link</NavLink></li>
@@ -97,17 +106,17 @@ const Header = () => {
                             </nav>
                             )}  
                         </li>
-                        <li onClick={()=>setLiAboutDrop(!liDrop)}>LONG ISLAND<i class="fas fa-caret-down" />
+                        <li onMouseLeave={()=>setLiAboutDrop(!liDrop)} onMouseEnter={()=>setLiAboutDrop(!liDrop)}>LONG ISLAND<i class="fas fa-caret-down" />
                             {liDrop &&(
                                 <nav className="dropdown animate__animated animate__fadeIn">
-                                <li><NavLink to='.'>Dropdown link</NavLink></li>
+                                <li><NavLink to='/longisland/export'>LI Exports </NavLink></li>
                                 <li><NavLink to='.'>Dropdown link</NavLink></li>
                                 <li><NavLink to='.'>Dropdown link</NavLink></li>
                                 <li><NavLink to='.'>Dropdown link</NavLink></li>
                             </nav>
                             )}  
                         </li>
-                        <li onClick={()=>setNyAboutDrop(!nyDrop)}>NEW YORK<i class="fas fa-caret-down" />
+                        <li onMouseLeave={()=>setNyAboutDrop(!nyDrop)} onMouseEnter={()=>setNyAboutDrop(!nyDrop)}>NEW YORK<i class="fas fa-caret-down" />
                             {nyDrop &&(
                                 <nav className="dropdown animate__animated animate__fadeIn">
                                 <li><NavLink to='/newyork/export'>NYS Export</NavLink></li>
