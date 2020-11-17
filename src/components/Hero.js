@@ -39,9 +39,10 @@ const Container = styled.div`
             margin: auto;
             margin-top: 2rem;
             font-family: 'Montserrat';
-            font-weight: bold;
+            font-weight: light;
 
         }
+        
         @media (min-width: 768px){
             width: 25%;
             button{

@@ -25,7 +25,7 @@ const Container = styled.div`
                 }
                 text-decoration: none;
                 font-size: 2rem;
-                font-family: 'Montserrat';
+               font-family: 'Krona One', sans-serif;
                 font-weight: 700;
                 color: #364669;
             }
