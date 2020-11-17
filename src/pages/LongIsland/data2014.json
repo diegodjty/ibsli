@@ -1,0 +1,1766 @@
+[
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 1111,
+      "VALUE": "605,592",
+      "DESCRIPTION": "OILSEED AND GRAIN FARMING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 1112,
+      "VALUE": "4,751,013",
+      "DESCRIPTION": "VEGETABLE AND MELON FARMING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 1113,
+      "VALUE": "40,103,692",
+      "DESCRIPTION": "FRUIT AND TREE NUT FARMING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 1114,
+      "VALUE": "26,806",
+      "DESCRIPTION": "GREENHOUSE, NURSERY, AND FLORICULTURE PRODUCTION",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 1119,
+      "VALUE": "639,200",
+      "DESCRIPTION": "OTHER CROP FARMING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 1125,
+      "VALUE": "118,301",
+      "DESCRIPTION": "AQUACULTURE",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 1129,
+      "VALUE": "12,419,860",
+      "DESCRIPTION": "OTHER ANIMAL PRODUCTION",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 1132,
+      "VALUE": "235,714",
+      "DESCRIPTION": "FOREST NURSERIES AND GATHERING OF FOREST PRODUCTS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 1133,
+      "VALUE": "682,871",
+      "DESCRIPTION": "LOGGING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 1141,
+      "VALUE": "4,619,070",
+      "DESCRIPTION": "FISHING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 2111,
+      "VALUE": "D",
+      "DESCRIPTION": "OIL AND GAS EXTRACTION",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 2122,
+      "VALUE": "D",
+      "DESCRIPTION": "METAL ORE MINING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 2123,
+      "VALUE": "D",
+      "DESCRIPTION": "NONMETALLIC MINERAL MINING AND QUARRYING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3111,
+      "VALUE": "72,371",
+      "DESCRIPTION": "ANIMAL FOOD MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3112,
+      "VALUE": "9,587,336",
+      "DESCRIPTION": "GRAIN AND OILSEED MILLING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3113,
+      "VALUE": "5,648,354",
+      "DESCRIPTION": "SUGAR AND CONFECTIONERY PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3114,
+      "VALUE": "10,085,246",
+      "DESCRIPTION": "FRUIT AND VEGETABLE PRESERVING AND SPECIALTY FOOD MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3115,
+      "VALUE": "671,341",
+      "DESCRIPTION": "DAIRY PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3116,
+      "VALUE": "27,435,085",
+      "DESCRIPTION": "ANIMAL SLAUGHTERING AND PROCESSING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3117,
+      "VALUE": "230,690",
+      "DESCRIPTION": "SEAFOOD PRODUCT PREPARATION AND PACKAGING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3118,
+      "VALUE": "10,402,975",
+      "DESCRIPTION": "BAKERIES AND TORTILLA MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3119,
+      "VALUE": "20,330,419",
+      "DESCRIPTION": "OTHER FOOD MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3121,
+      "VALUE": "D",
+      "DESCRIPTION": "BEVERAGE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3122,
+      "VALUE": "D",
+      "DESCRIPTION": "TOBACCO MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3131,
+      "VALUE": "585,784",
+      "DESCRIPTION": "FIBER, YARN, AND THREAD MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3132,
+      "VALUE": "17,625,147",
+      "DESCRIPTION": "FABRIC MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3133,
+      "VALUE": "996,166",
+      "DESCRIPTION": "TEXTILE AND FABRIC FINISHING AND FABRIC COATING MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3141,
+      "VALUE": "5,886,716",
+      "DESCRIPTION": "TEXTILE FURNISHINGS MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3149,
+      "VALUE": "3,489,644",
+      "DESCRIPTION": "OTHER TEXTILE PRODUCT MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3151,
+      "VALUE": "1,529,423",
+      "DESCRIPTION": "APPAREL KNITTING MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3152,
+      "VALUE": "9,861,284",
+      "DESCRIPTION": "CUT AND SEW APPAREL MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3159,
+      "VALUE": "3,293,970",
+      "DESCRIPTION": "APPAREL ACCESSORIES AND OTHER APPAREL MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3161,
+      "VALUE": "42,525,455",
+      "DESCRIPTION": "LEATHER AND HIDE TANNING AND FINISHING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3162,
+      "VALUE": "18,535,257",
+      "DESCRIPTION": "FOOTWEAR MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3169,
+      "VALUE": "3,460,985",
+      "DESCRIPTION": "OTHER LEATHER AND ALLIED PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3211,
+      "VALUE": "4,369,105",
+      "DESCRIPTION": "SAWMILLS AND WOOD PRESERVATION",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3212,
+      "VALUE": "160,539",
+      "DESCRIPTION": "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3219,
+      "VALUE": "1,105,139",
+      "DESCRIPTION": "OTHER WOOD PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3221,
+      "VALUE": "133,730,371",
+      "DESCRIPTION": "PULP, PAPER, AND PAPERBOARD MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3222,
+      "VALUE": "15,843,604",
+      "DESCRIPTION": "CONVERTED PAPER PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3231,
+      "VALUE": "31,847,084",
+      "DESCRIPTION": "PRINTING AND RELATED SUPPORT ACTIVITIES",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3241,
+      "VALUE": "5,723,850",
+      "DESCRIPTION": "PETROLEUM AND COAL PRODUCTS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3251,
+      "VALUE": "49,987,460",
+      "DESCRIPTION": "BASIC CHEMICAL MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3252,
+      "VALUE": "79,203,938",
+      "DESCRIPTION": "RESIN, SYNTHETIC RUBBER, AND ARTIFICIAL SYNTHETIC FIBERS AND FILAMENTS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3253,
+      "VALUE": "D",
+      "DESCRIPTION": "PESTICIDE, FERTILIZER, AND OTHER AGRICULTURAL CHEMICAL MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3254,
+      "VALUE": "69,582,335",
+      "DESCRIPTION": "PHARMACEUTICAL AND MEDICINE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3255,
+      "VALUE": "D",
+      "DESCRIPTION": "PAINT, COATING, AND ADHESIVE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3256,
+      "VALUE": "260,806,663",
+      "DESCRIPTION": "SOAP, CLEANING COMPOUND, AND TOILET PREPARATION MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3259,
+      "VALUE": "27,170,448",
+      "DESCRIPTION": "OTHER CHEMICAL PRODUCT AND PREPARATION MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3261,
+      "VALUE": "23,730,543",
+      "DESCRIPTION": "PLASTICS PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3262,
+      "VALUE": "15,070,446",
+      "DESCRIPTION": "RUBBER PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3271,
+      "VALUE": "1,245,366",
+      "DESCRIPTION": "CLAY PRODUCT AND REFRACTORY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3272,
+      "VALUE": "4,260,571",
+      "DESCRIPTION": "GLASS AND GLASS PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3273,
+      "VALUE": "211,671",
+      "DESCRIPTION": "CEMENT AND CONCRETE PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3274,
+      "VALUE": "81,632",
+      "DESCRIPTION": "LIME AND GYPSUM PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3279,
+      "VALUE": "3,247,512",
+      "DESCRIPTION": "OTHER NONMETALLIC MINERAL PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3311,
+      "VALUE": "24,683,735",
+      "DESCRIPTION": "IRON AND STEEL MILLS AND FERROALLOY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3312,
+      "VALUE": "2,858,503",
+      "DESCRIPTION": "STEEL PRODUCT MANUFACTURING FROM PURCHASED STEEL",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3313,
+      "VALUE": "13,913,394",
+      "DESCRIPTION": "ALUMINA AND ALUMINUM PRODUCTION AND PROCESSING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3314,
+      "VALUE": "405,779,000",
+      "DESCRIPTION": "NONFERROUS METAL (EXCEPT ALUMINUM) PRODUCTION AND PROCESSING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3315,
+      "VALUE": "156,774",
+      "DESCRIPTION": "FOUNDRIES",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3321,
+      "VALUE": "665,441",
+      "DESCRIPTION": "FORGING AND STAMPING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3322,
+      "VALUE": "16,745,918",
+      "DESCRIPTION": "CUTLERY AND HANDTOOL MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3323,
+      "VALUE": "2,661,493",
+      "DESCRIPTION": "ARCHITECTURAL AND STRUCTURAL METALS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3324,
+      "VALUE": "6,584,952",
+      "DESCRIPTION": "BOILER, TANK, AND SHIPPING CONTAINER MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3325,
+      "VALUE": "4,497,885",
+      "DESCRIPTION": "HARDWARE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3326,
+      "VALUE": "2,856,585",
+      "DESCRIPTION": "SPRING AND WIRE PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3327,
+      "VALUE": "13,678,964",
+      "DESCRIPTION": "MACHINE SHOPS; TURNED PRODUCT; AND SCREW, NUT, AND BOLT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3329,
+      "VALUE": "59,398,331",
+      "DESCRIPTION": "OTHER FABRICATED METAL PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3331,
+      "VALUE": "22,324,776",
+      "DESCRIPTION": "AGRICULTURE, CONSTRUCTION, AND MINING MACHINERY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3332,
+      "VALUE": "65,394,967",
+      "DESCRIPTION": "INDUSTRIAL MACHINERY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3333,
+      "VALUE": "24,526,353",
+      "DESCRIPTION": "COMMERCIAL AND SERVICE INDUSTRY MACHINERY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3334,
+      "VALUE": "11,816,511",
+      "DESCRIPTION": "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3335,
+      "VALUE": "8,436,993",
+      "DESCRIPTION": "METALWORKING MACHINERY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3336,
+      "VALUE": "19,487,238",
+      "DESCRIPTION": "ENGINE, TURBINE, AND POWER TRANSMISSION EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3339,
+      "VALUE": "88,543,223",
+      "DESCRIPTION": "OTHER GENERAL PURPOSE MACHINERY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3341,
+      "VALUE": "163,136,769",
+      "DESCRIPTION": "COMPUTER AND PERIPHERAL EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3342,
+      "VALUE": "442,815,928",
+      "DESCRIPTION": "COMMUNICATIONS EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3343,
+      "VALUE": "33,923,664",
+      "DESCRIPTION": "AUDIO AND VIDEO EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3344,
+      "VALUE": "80,214,169",
+      "DESCRIPTION": "SEMICONDUCTOR AND OTHER ELECTRONIC COMPONENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3345,
+      "VALUE": "113,167,245",
+      "DESCRIPTION": "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3346,
+      "VALUE": "4,660,907",
+      "DESCRIPTION": "MANUFACTURING AND REPRODUCING MAGNETIC AND OPTICAL MEDIA",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3351,
+      "VALUE": "9,572,941",
+      "DESCRIPTION": "ELECTRIC LIGHTING EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3352,
+      "VALUE": "10,745,656",
+      "DESCRIPTION": "HOUSEHOLD APPLIANCE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3353,
+      "VALUE": "15,750,600",
+      "DESCRIPTION": "ELECTRICAL EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3359,
+      "VALUE": "44,731,211",
+      "DESCRIPTION": "OTHER ELECTRICAL EQUIPMENT AND COMPONENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3361,
+      "VALUE": "129,545,180",
+      "DESCRIPTION": "MOTOR VEHICLE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3362,
+      "VALUE": "1,126,835",
+      "DESCRIPTION": "MOTOR VEHICLE BODY AND TRAILER MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3363,
+      "VALUE": "14,940,301",
+      "DESCRIPTION": "MOTOR VEHICLE PARTS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3364,
+      "VALUE": "171,452,492",
+      "DESCRIPTION": "AEROSPACE PRODUCT AND PARTS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3365,
+      "VALUE": "405,582",
+      "DESCRIPTION": "RAILROAD ROLLING STOCK MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3366,
+      "VALUE": "2,206,982",
+      "DESCRIPTION": "SHIP AND BOAT BUILDING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3369,
+      "VALUE": "11,916,492",
+      "DESCRIPTION": "OTHER TRANSPORTATION EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3371,
+      "VALUE": "9,767,185",
+      "DESCRIPTION": "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINET MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3372,
+      "VALUE": "2,441,488",
+      "DESCRIPTION": "OFFICE FURNITURE (INCLUDING FIXTURES) MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3379,
+      "VALUE": "1,740,898",
+      "DESCRIPTION": "OTHER FURNITURE RELATED PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3391,
+      "VALUE": "42,615,589",
+      "DESCRIPTION": "MEDICAL EQUIPMENT AND SUPPLIES MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Nassau County",
+      "NAICS4": 3399,
+      "VALUE": "3,609,116,430",
+      "DESCRIPTION": "OTHER MISCELLANEOUS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 1111,
+      "VALUE": "62,968",
+      "DESCRIPTION": "OILSEED AND GRAIN FARMING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 1112,
+      "VALUE": "270,524",
+      "DESCRIPTION": "VEGETABLE AND MELON FARMING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 1113,
+      "VALUE": "94,325,840",
+      "DESCRIPTION": "FRUIT AND TREE NUT FARMING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 1114,
+      "VALUE": "243,923",
+      "DESCRIPTION": "GREENHOUSE, NURSERY, AND FLORICULTURE PRODUCTION",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 1119,
+      "VALUE": "577,021",
+      "DESCRIPTION": "OTHER CROP FARMING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 1125,
+      "VALUE": "D",
+      "DESCRIPTION": "AQUACULTURE",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 1129,
+      "VALUE": "D",
+      "DESCRIPTION": "OTHER ANIMAL PRODUCTION",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 1132,
+      "VALUE": "3,453,283",
+      "DESCRIPTION": "FOREST NURSERIES AND GATHERING OF FOREST PRODUCTS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 1133,
+      "VALUE": "28,361",
+      "DESCRIPTION": "LOGGING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 1141,
+      "VALUE": "7,216,366",
+      "DESCRIPTION": "FISHING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 2111,
+      "VALUE": "200,522",
+      "DESCRIPTION": "OIL AND GAS EXTRACTION",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 2121,
+      "VALUE": "324,359,805",
+      "DESCRIPTION": "COAL MINING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 2122,
+      "VALUE": "D",
+      "DESCRIPTION": "METAL ORE MINING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 2123,
+      "VALUE": "D",
+      "DESCRIPTION": "NONMETALLIC MINERAL MINING AND QUARRYING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3111,
+      "VALUE": "159,493",
+      "DESCRIPTION": "ANIMAL FOOD MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3112,
+      "VALUE": "9,368,720",
+      "DESCRIPTION": "GRAIN AND OILSEED MILLING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3113,
+      "VALUE": "11,486,465",
+      "DESCRIPTION": "SUGAR AND CONFECTIONERY PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3114,
+      "VALUE": "1,853,198",
+      "DESCRIPTION": "FRUIT AND VEGETABLE PRESERVING AND SPECIALTY FOOD MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3115,
+      "VALUE": "2,530,407",
+      "DESCRIPTION": "DAIRY PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3116,
+      "VALUE": "721,488",
+      "DESCRIPTION": "ANIMAL SLAUGHTERING AND PROCESSING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3118,
+      "VALUE": "4,662,363",
+      "DESCRIPTION": "BAKERIES AND TORTILLA MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3119,
+      "VALUE": "126,208,488",
+      "DESCRIPTION": "OTHER FOOD MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3121,
+      "VALUE": "D",
+      "DESCRIPTION": "BEVERAGE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3122,
+      "VALUE": "D",
+      "DESCRIPTION": "TOBACCO MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3131,
+      "VALUE": "1,019,354",
+      "DESCRIPTION": "FIBER, YARN, AND THREAD MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3132,
+      "VALUE": "10,339,396",
+      "DESCRIPTION": "FABRIC MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3133,
+      "VALUE": "3,546,791",
+      "DESCRIPTION": "TEXTILE AND FABRIC FINISHING AND FABRIC COATING MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3141,
+      "VALUE": "2,361,250",
+      "DESCRIPTION": "TEXTILE FURNISHINGS MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3149,
+      "VALUE": "1,359,232",
+      "DESCRIPTION": "OTHER TEXTILE PRODUCT MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3151,
+      "VALUE": "323,449",
+      "DESCRIPTION": "APPAREL KNITTING MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3152,
+      "VALUE": "15,245,642",
+      "DESCRIPTION": "CUT AND SEW APPAREL MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3159,
+      "VALUE": "1,040,994",
+      "DESCRIPTION": "APPAREL ACCESSORIES AND OTHER APPAREL MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3161,
+      "VALUE": "100,032",
+      "DESCRIPTION": "LEATHER AND HIDE TANNING AND FINISHING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3162,
+      "VALUE": "4,608,523",
+      "DESCRIPTION": "FOOTWEAR MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3169,
+      "VALUE": "8,219,369",
+      "DESCRIPTION": "OTHER LEATHER AND ALLIED PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3211,
+      "VALUE": "173,645",
+      "DESCRIPTION": "SAWMILLS AND WOOD PRESERVATION",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3212,
+      "VALUE": "501,988",
+      "DESCRIPTION": "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3219,
+      "VALUE": "2,347,398",
+      "DESCRIPTION": "OTHER WOOD PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3221,
+      "VALUE": "7,116,447",
+      "DESCRIPTION": "PULP, PAPER, AND PAPERBOARD MILLS",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3222,
+      "VALUE": "22,528,561",
+      "DESCRIPTION": "CONVERTED PAPER PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3231,
+      "VALUE": "15,008,242",
+      "DESCRIPTION": "PRINTING AND RELATED SUPPORT ACTIVITIES",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3241,
+      "VALUE": "9,790,876",
+      "DESCRIPTION": "PETROLEUM AND COAL PRODUCTS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3251,
+      "VALUE": "36,049,883",
+      "DESCRIPTION": "BASIC CHEMICAL MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3252,
+      "VALUE": "26,536,630",
+      "DESCRIPTION": "RESIN, SYNTHETIC RUBBER, AND ARTIFICIAL SYNTHETIC FIBERS AND FILAMENTS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3253,
+      "VALUE": "4,885,393",
+      "DESCRIPTION": "PESTICIDE, FERTILIZER, AND OTHER AGRICULTURAL CHEMICAL MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3254,
+      "VALUE": "119,506,192",
+      "DESCRIPTION": "PHARMACEUTICAL AND MEDICINE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3255,
+      "VALUE": "4,038,058",
+      "DESCRIPTION": "PAINT, COATING, AND ADHESIVE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3256,
+      "VALUE": "594,213,856",
+      "DESCRIPTION": "SOAP, CLEANING COMPOUND, AND TOILET PREPARATION MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3259,
+      "VALUE": "29,336,786",
+      "DESCRIPTION": "OTHER CHEMICAL PRODUCT AND PREPARATION MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3261,
+      "VALUE": "55,949,898",
+      "DESCRIPTION": "PLASTICS PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3262,
+      "VALUE": "6,527,845",
+      "DESCRIPTION": "RUBBER PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3271,
+      "VALUE": "905,019",
+      "DESCRIPTION": "CLAY PRODUCT AND REFRACTORY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3272,
+      "VALUE": "3,490,116",
+      "DESCRIPTION": "GLASS AND GLASS PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3273,
+      "VALUE": "D",
+      "DESCRIPTION": "CEMENT AND CONCRETE PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3274,
+      "VALUE": "D",
+      "DESCRIPTION": "LIME AND GYPSUM PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3279,
+      "VALUE": "1,592,208",
+      "DESCRIPTION": "OTHER NONMETALLIC MINERAL PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3311,
+      "VALUE": "16,410,028",
+      "DESCRIPTION": "IRON AND STEEL MILLS AND FERROALLOY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3312,
+      "VALUE": "1,398,960",
+      "DESCRIPTION": "STEEL PRODUCT MANUFACTURING FROM PURCHASED STEEL",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3313,
+      "VALUE": "5,173,784",
+      "DESCRIPTION": "ALUMINA AND ALUMINUM PRODUCTION AND PROCESSING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3314,
+      "VALUE": "17,999,472",
+      "DESCRIPTION": "NONFERROUS METAL (EXCEPT ALUMINUM) PRODUCTION AND PROCESSING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3315,
+      "VALUE": "2,119,000",
+      "DESCRIPTION": "FOUNDRIES",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3321,
+      "VALUE": "135,933",
+      "DESCRIPTION": "FORGING AND STAMPING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3322,
+      "VALUE": "3,571,845",
+      "DESCRIPTION": "CUTLERY AND HANDTOOL MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3323,
+      "VALUE": "6,985,213",
+      "DESCRIPTION": "ARCHITECTURAL AND STRUCTURAL METALS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3324,
+      "VALUE": "1,457,195",
+      "DESCRIPTION": "BOILER, TANK, AND SHIPPING CONTAINER MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3325,
+      "VALUE": "6,173,093",
+      "DESCRIPTION": "HARDWARE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3326,
+      "VALUE": "2,749,710",
+      "DESCRIPTION": "SPRING AND WIRE PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3327,
+      "VALUE": "8,331,925",
+      "DESCRIPTION": "MACHINE SHOPS; TURNED PRODUCT; AND SCREW, NUT, AND BOLT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3329,
+      "VALUE": "22,298,712",
+      "DESCRIPTION": "OTHER FABRICATED METAL PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3331,
+      "VALUE": "7,075,795",
+      "DESCRIPTION": "AGRICULTURE, CONSTRUCTION, AND MINING MACHINERY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3332,
+      "VALUE": "13,136,155",
+      "DESCRIPTION": "INDUSTRIAL MACHINERY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3333,
+      "VALUE": "59,138,472",
+      "DESCRIPTION": "COMMERCIAL AND SERVICE INDUSTRY MACHINERY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3334,
+      "VALUE": "4,057,932",
+      "DESCRIPTION": "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3335,
+      "VALUE": "8,427,837",
+      "DESCRIPTION": "METALWORKING MACHINERY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3336,
+      "VALUE": "9,537,569",
+      "DESCRIPTION": "ENGINE, TURBINE, AND POWER TRANSMISSION EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3339,
+      "VALUE": "68,224,032",
+      "DESCRIPTION": "OTHER GENERAL PURPOSE MACHINERY MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3341,
+      "VALUE": "67,856,774",
+      "DESCRIPTION": "COMPUTER AND PERIPHERAL EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3342,
+      "VALUE": "231,563,947",
+      "DESCRIPTION": "COMMUNICATIONS EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3343,
+      "VALUE": "99,506,544",
+      "DESCRIPTION": "AUDIO AND VIDEO EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3344,
+      "VALUE": "189,096,810",
+      "DESCRIPTION": "SEMICONDUCTOR AND OTHER ELECTRONIC COMPONENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3345,
+      "VALUE": "168,036,112",
+      "DESCRIPTION": "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3346,
+      "VALUE": "3,012,375",
+      "DESCRIPTION": "MANUFACTURING AND REPRODUCING MAGNETIC AND OPTICAL MEDIA",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3351,
+      "VALUE": "13,958,319",
+      "DESCRIPTION": "ELECTRIC LIGHTING EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3352,
+      "VALUE": "8,730,725",
+      "DESCRIPTION": "HOUSEHOLD APPLIANCE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3353,
+      "VALUE": "49,687,879",
+      "DESCRIPTION": "ELECTRICAL EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3359,
+      "VALUE": "139,684,429",
+      "DESCRIPTION": "OTHER ELECTRICAL EQUIPMENT AND COMPONENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3361,
+      "VALUE": "12,623,513",
+      "DESCRIPTION": "MOTOR VEHICLE MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3362,
+      "VALUE": "2,089,471",
+      "DESCRIPTION": "MOTOR VEHICLE BODY AND TRAILER MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3363,
+      "VALUE": "105,490,867",
+      "DESCRIPTION": "MOTOR VEHICLE PARTS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3364,
+      "VALUE": "122,004,537",
+      "DESCRIPTION": "AEROSPACE PRODUCT AND PARTS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3365,
+      "VALUE": "196,101",
+      "DESCRIPTION": "RAILROAD ROLLING STOCK MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3366,
+      "VALUE": "4,994,133",
+      "DESCRIPTION": "SHIP AND BOAT BUILDING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3369,
+      "VALUE": "1,551,340",
+      "DESCRIPTION": "OTHER TRANSPORTATION EQUIPMENT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3371,
+      "VALUE": "14,967,823",
+      "DESCRIPTION": "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINET MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3372,
+      "VALUE": "5,808,409",
+      "DESCRIPTION": "OFFICE FURNITURE (INCLUDING FIXTURES) MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3379,
+      "VALUE": "93,030",
+      "DESCRIPTION": "OTHER FURNITURE RELATED PRODUCT MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3391,
+      "VALUE": "72,381,052",
+      "DESCRIPTION": "MEDICAL EQUIPMENT AND SUPPLIES MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    },
+    {
+      "COUNTY": "Suffolk County",
+      "NAICS4": 3399,
+      "VALUE": "72,698,245",
+      "DESCRIPTION": "OTHER MISCELLANEOUS MANUFACTURING",
+      "": "",
+      "__1": "",
+      "__2": ""
+    }
+  ]
