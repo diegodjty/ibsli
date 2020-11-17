@@ -79,13 +79,19 @@ const CompsMap = styled(ComposableMap)`
 
     const colorScale = scaleLinear()
     .domain([0,
+            5000000,
+            20000000,
+            100000000,
              4265878253,
              8531756506,
              17063513012])
-    .range(["#CCDAF7",
-            "#7E8CEB",
-            "#5659B0",
-            "#2F296B"]);
+    .range(["#D7F1B8",
+            "#d7f171",
+            "#95dd7d",
+            "#5bc489",
+            "#23aa8f",
+            "#007f86",
+            "#2a4858"]);
 
     const rounded = num => {
         if (num > 1000000000) {
@@ -139,11 +145,11 @@ const CompsMap = styled(ComposableMap)`
                         style={
                             {
                             hover: {
-                            fill: "#CCEFF7",
+                            fill: "#F2CFAC",
                             outline: "none"
                             },
                             pressed: {
-                            fill: "#CCEFF7",
+                            fill: "#F2CFAC",
                             outline: "none"
                             }
                         }}

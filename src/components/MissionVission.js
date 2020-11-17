@@ -21,7 +21,8 @@ const Container = styled.div`
         text-align: center;
         color: #29446B;
         font-size: 1.2rem;
-        font-family: proxima-nova, sans-serif;
+       font-family: 'Hind Madurai', sans-serif;
+       font-weight: 300px;
     }
     .imgContainer{
         img{
