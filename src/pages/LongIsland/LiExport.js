@@ -44,7 +44,7 @@ const Container = styled.div`
     max-width: 1424px;
     margin: auto;
     .chartContainer{
-      width: 50%;
+      width: 80%;
       margin: auto;
     }
 `;
