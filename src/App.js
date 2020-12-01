@@ -6,6 +6,7 @@ import Homepage from './pages/Homepage'
 import NyExport from './pages/NewYork/NyExport';
 import LiExport from './pages/LongIsland/LiExport';
 import Header from './components/Header'
+import Footer from './components/Footer'
 
 import {
   HashRouter,
@@ -24,7 +25,7 @@ function App() {
           <Route exact path="/newyork/export" component={NyExport}/>
           <Route exact path="/longisland/export" component={LiExport}/>
         </Switch>
-      {/* <Footer /> */}
+      <Footer />
   </HashRouter>
   )}
 
