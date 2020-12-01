@@ -76,7 +76,7 @@ const MobileTeam = () => {
         }
     } 
     return (
-        <Container>
+        <Container id="mobileTeam">
             <div className="team-member">
                 <div className="team-header">
                     <div className="left-arrow" onClick={changeMemberLeft}>

@@ -65,8 +65,8 @@ const Container = styled.div`
 
 const MissionVission = () => {
     return (
-        <Container>
-            <h2>Mission & Vision</h2>
+        <Container >
+            <h2 >Mission & Vision</h2>
             <p>We are an organization aiming to enhance international
                engagement, and to promote the competitiveness of the 
                region in the global marketplace. IBSLI provides support

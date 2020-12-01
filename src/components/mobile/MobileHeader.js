@@ -2,6 +2,7 @@ import React,{useState} from 'react';
 import styled from '@emotion/styled';
 import { NavLink } from 'react-router-dom';
 import {Lighthouse} from '../../img'
+import {Link} from 'react-scroll'
 
 
 const Container = styled.div`
@@ -105,8 +106,34 @@ const MobileHeader = () => {
                                 :
                                 null
                             }
-                            <li><NavLink  to="/"> CONTACT</NavLink></li>
-                            <li><NavLink  to="/"> OUR TEAM</NavLink></li>
+                            <li>
+                                <Link 
+                                    activeClass="active"
+                                    to="contact"
+                                    spy={true}
+                                    smooth={true}
+                                    hashSpy={true}
+                                    offset={50}
+                                    duration={500}
+                                    onClick={()=>setMenuOpen(false)}
+                                >
+                                    CONTACT
+                                </Link>
+                            </li>
+                            <li>
+                                <Link 
+                                    activeClass="active"
+                                    to="mobileTeam"
+                                    spy={true}
+                                    smooth={true}
+                                    hashSpy={true}
+                                    offset={-1000}
+                                    duration={500}
+                                    onClick={()=>setMenuOpen(false)}
+                                >
+                                    OUR TEAM
+                                </Link>
+                            </li>
                         </ul>
                     </nav>
                         <img src={Lighthouse} alt="lighthouse"/>
