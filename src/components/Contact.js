@@ -2,6 +2,10 @@ import React from 'react';
 import styled from '@emotion/styled';
 import Newsletter from './Newsletter';
 import ContactForm from './ContactForm';
+import { ToastContainer} from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
+
 
 
 

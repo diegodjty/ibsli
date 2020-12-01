@@ -1,6 +1,7 @@
 import React,{useState} from 'react';
 import styled from '@emotion/styled';
 import ReactTooltip from "react-tooltip";
+import MetaData from '../../components/MetaData'
 
 import ExportMap from './ExportMap'
 
@@ -35,6 +36,7 @@ const NyExport = () => {
     const [content, setContent] = useState("");
     return (
         <Container>
+            <MetaData title="NY export" description="New York State World Exports" />
             <ExportMap setTooltipContent={setContent} />
             <ReactTooltip textColor='#7EC2EB' backgroundColor='white'>{content}</ReactTooltip>
         </Container>

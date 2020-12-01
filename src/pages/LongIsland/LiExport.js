@@ -21,7 +21,6 @@ const modifydata = (data)=>{
 
   newData.map((industry,index)=>{
     if(industry.county==="Nassau County"){
-      console.log(industry.y)
       let onlyNumbers = parseInt(industry.y)
       if(!isNaN(onlyNumbers)){
        const num = Math.round(onlyNumbers / 100000) / 10;
