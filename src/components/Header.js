@@ -2,6 +2,7 @@ import React,{useState} from 'react';
 import styled from '@emotion/styled';
 import { NavLink } from 'react-router-dom';
 import { Lighthouse,Ibsli } from '../img';
+import {Link} from 'react-scroll'
 
 const Container = styled.div`
     @media (max-width: 768px){
@@ -100,10 +101,48 @@ const Header = () => {
                         <li onMouseLeave={()=>setAboutDrop(!aboutDrop)} onMouseEnter={()=>setAboutDrop(!aboutDrop)}>ABOUT<i class="fas fa-caret-down" />
                             {aboutDrop &&(
                                 <nav className="dropdown animate__animated animate__fadeIn">
-                                <li><NavLink to='.'>About us</NavLink></li>
-                                <li><NavLink to='/team'>Our Team</NavLink></li>
-                                <li><NavLink to='/contact'>Contact</NavLink></li>
-                                <li><NavLink to='/signup'>Newsletter</NavLink></li>
+                                <li>
+                                    <Link 
+                                        activeClass="active"
+                                        to="ourTeam"
+                                        spy={true}
+                                        smooth={true}
+                                        hashSpy={true}
+                                        
+                                        duration={500}
+                                        onClick={()=>setAboutDrop(false)}
+                                    >
+                                        Our Team
+                                    </Link>
+                                </li>
+                                <li>
+                                    <Link 
+                                        activeClass="active"
+                                        to="contact"
+                                        spy={true}
+                                        smooth={true}
+                                        hashSpy={true}
+                                        
+                                        duration={500}
+                                        onClick={()=>setAboutDrop(false)}
+                                    >
+                                        Contact us
+                                    </Link>
+                                </li>
+                                <li>
+                                    <Link 
+                                        activeClass="active"
+                                        to="newsletter"
+                                        spy={true}
+                                        smooth={true}
+                                        hashSpy={true}
+                                        
+                                        duration={500}
+                                        onClick={()=>setAboutDrop(false)}
+                                    >
+                                        Newsletter
+                                    </Link>
+                                </li>
                             </nav>
                             )}  
                         </li>

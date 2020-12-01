@@ -56,7 +56,7 @@ const Container = styled.div`
 
 const Newsletter = () => {
     return (
-        <Container>
+        <Container id="newsletter">
             <h2>IBSLI</h2>
             <div className="newsletter">
                 <h3>NEWSLETTER<i class="fas fa-envelope"></i></h3>
