@@ -56,7 +56,9 @@ const Container = styled.div`
     }
     .second-section{
         width: 100%;
+        
         .imgContainer{
+           
             width: 80%;
             margin: auto;
             margin-top: 2rem;
@@ -68,6 +70,8 @@ const Container = styled.div`
             width: 55%;
             .imgContainer{
                 animation: upanddown 5s infinite 0s linear;
+                 position: relative;
+            z-index: 0;
             }
         }
     }
