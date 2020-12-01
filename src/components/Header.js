@@ -55,6 +55,7 @@ const Container = styled.div`
                     .dropdown{
                         border: solid lightgray 1px;
                         background-color: white;
+                        z-index: 2;
                         position: absolute;
                         -webkit-box-shadow: 0px 11px 8px -13px #000000; 
                         box-shadow: 0px 11px 8px -13px #000000;
@@ -99,30 +100,30 @@ const Header = () => {
                         <li onMouseLeave={()=>setAboutDrop(!aboutDrop)} onMouseEnter={()=>setAboutDrop(!aboutDrop)}>ABOUT<i class="fas fa-caret-down" />
                             {aboutDrop &&(
                                 <nav className="dropdown animate__animated animate__fadeIn">
-                                <li><NavLink to='.'>Dropdown link</NavLink></li>
-                                <li><NavLink to='.'>Dropdown link</NavLink></li>
-                                <li><NavLink to='.'>Dropdown link</NavLink></li>
-                                <li><NavLink to='.'>Dropdown link</NavLink></li>
+                                <li><NavLink to='.'>About us</NavLink></li>
+                                <li><NavLink to='/team'>Our Team</NavLink></li>
+                                <li><NavLink to='/contact'>Contact</NavLink></li>
+                                <li><NavLink to='/signup'>Newsletter</NavLink></li>
                             </nav>
                             )}  
                         </li>
                         <li onMouseLeave={()=>setLiAboutDrop(!liDrop)} onMouseEnter={()=>setLiAboutDrop(!liDrop)}>LONG ISLAND<i class="fas fa-caret-down" />
                             {liDrop &&(
                                 <nav className="dropdown animate__animated animate__fadeIn">
-                                <li><NavLink to='/longisland/export'>LI Exports </NavLink></li>
-                                <li><NavLink to='.'>Dropdown link</NavLink></li>
-                                <li><NavLink to='.'>Dropdown link</NavLink></li>
-                                <li><NavLink to='.'>Dropdown link</NavLink></li>
+                                <li><NavLink to='/longisland/export'>Annual Exports by County</NavLink></li>
+                                <li><NavLink to='.'>Exports by Industry</NavLink></li>
+                                <li><NavLink to='.'>Foreign Direct Investments</NavLink></li>
+                                <li><NavLink to='.'>Economic Overview</NavLink></li>
                             </nav>
                             )}  
                         </li>
                         <li onMouseLeave={()=>setNyAboutDrop(!nyDrop)} onMouseEnter={()=>setNyAboutDrop(!nyDrop)}>NEW YORK<i class="fas fa-caret-down" />
                             {nyDrop &&(
                                 <nav className="dropdown animate__animated animate__fadeIn">
-                                <li><NavLink to='/newyork/export'>NYS Export</NavLink></li>
-                                <li><NavLink to='.'>Dropdown link</NavLink></li>
-                                <li><NavLink to='.'>Dropdown link</NavLink></li>
-                                <li><NavLink to='.'>Dropdown link</NavLink></li>
+                                <li><NavLink to='/newyork/export'>Annual Exports</NavLink></li>
+                                <li><NavLink to='.'>Annual Imports</NavLink></li>
+                                <li><NavLink to='.'>Annual Service Exports</NavLink></li>
+        
                             </nav>
                             )}  
                         </li>
