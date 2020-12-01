@@ -1,24 +1,21 @@
 import React,{useState} from 'react';
 import styled from '@emotion/styled';
 import { NavLink } from 'react-router-dom';
-
-
 import {Lighthouse} from '../../img'
-import MenuIcon from '@material-ui/icons/Menu';
-import ClearIcon from '@material-ui/icons/Clear';
+
 
 const Container = styled.div`
     @media (min-width: 768px){
         display: none;
     }
     header{
+        background-color: #5686B0;
         .menuBtn{
-            
                 font-size: 1.5rem;
                 position: absolute;
                 left: 10px;
                 top: 10px;
-                z-index: 100;
+                z-index: 200;
             .close{
                 color: white;
             }
@@ -76,45 +73,49 @@ const MobileHeader = () => {
     return (
         <Container>
             <header>
-                <div className="menuBtn" onClick={()=>setMenuOpen(!isMenuOpen)}>
-                    <i className={isMenuOpen?'fas fa-times close':'fas fa-bars'}></i>
-                </div>
-
                 {
                 isMenuOpen ?
-                <div className="menu animate__animated animate__fadeInDown">
-                <nav>
-                    <ul>
-                        <li><NavLink  activeStyle={{ color: '#CBD9F6' }} to="/"> HOME</NavLink></li>
-                        <li><NavLink  to="/"> ABOUT</NavLink></li>
-                        <li onClick={()=>setLiSubMenu(!liSubmenu)}>LONG ISLAND</li>
-                        {liSubmenu?
-                                <ul className="longIsland animate__animated animate__fadeInLeft">
-                                <li><NavLink to="/">Annual exports by County</NavLink></li>
-                                <li><NavLink to="/">Exports by industry</NavLink></li>
-                                <li><NavLink to="/">Foreign Direct Investments</NavLink></li>
-                                <li><NavLink to="/">Economic Overview</NavLink></li>
-                            </ul>
-                            :
-                            null
-                        }
-                        <li onClick={()=>setNySubMenu(!nySubMenu)}>NEW YORK</li>
-                        {nySubMenu?
-                                <ul className="longIsland animate__animated animate__fadeInLeft">
-                                <li><NavLink onClick={()=>setMenuOpen(!isMenuOpen)} to="/newyork/export">NYS Export</NavLink></li>
-                                <li><NavLink to="/">NYS Import</NavLink></li>
-                                <li><NavLink to="/">Service Export</NavLink></li>
-                            </ul>
-                            :
-                            null
-                        }
-                        <li><NavLink  to="/"> CONTACT</NavLink></li>
-                        <li><NavLink  to="/"> OUR TEAM</NavLink></li>
-                    </ul>
-                </nav>
-                    <img src={Lighthouse} alt="lighthouse"/>
+                <>
+                    <div className="menuBtn" onClick={()=>setMenuOpen(!isMenuOpen)}>
+                        <i className={isMenuOpen?'fas fa-times close':'fas fa-bars'}></i>
+                    </div>
+                    <div className="menu animate__animated animate__fadeInDown">
+                    <nav>
+                        <ul>
+                            <li><NavLink  activeStyle={{ color: '#CBD9F6' }} to="/"> HOME</NavLink></li>
+                            <li><NavLink  to="/"> ABOUT</NavLink></li>
+                            <li onClick={()=>setLiSubMenu(!liSubmenu)}>LONG ISLAND</li>
+                            {liSubmenu?
+                                    <ul className="longIsland animate__animated animate__fadeInLeft">
+                                    <li><NavLink to="/">Annual exports by County</NavLink></li>
+                                    <li><NavLink to="/">Exports by industry</NavLink></li>
+                                    <li><NavLink to="/">Foreign Direct Investments</NavLink></li>
+                                    <li><NavLink to="/">Economic Overview</NavLink></li>
+                                </ul>
+                                :
+                                null
+                            }
+                            <li onClick={()=>setNySubMenu(!nySubMenu)}>NEW YORK</li>
+                            {nySubMenu?
+                                    <ul className="longIsland animate__animated animate__fadeInLeft">
+                                    <li><NavLink onClick={()=>setMenuOpen(!isMenuOpen)} to="/newyork/export">NYS Export</NavLink></li>
+                                    <li><NavLink to="/">NYS Import</NavLink></li>
+                                    <li><NavLink to="/">Service Export</NavLink></li>
+                                </ul>
+                                :
+                                null
+                            }
+                            <li><NavLink  to="/"> CONTACT</NavLink></li>
+                            <li><NavLink  to="/"> OUR TEAM</NavLink></li>
+                        </ul>
+                    </nav>
+                        <img src={Lighthouse} alt="lighthouse"/>
+                    </div>
+                </>
+                :
+                <div className="menuBtn" onClick={()=>setMenuOpen(!isMenuOpen)}>
+                        <i className='fas fa-bars'></i>
                 </div>
-                :null
             }
             </header>
         </Container>

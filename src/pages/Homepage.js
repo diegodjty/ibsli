@@ -3,6 +3,7 @@ import styled from '@emotion/styled'
 
 import Hero from './../components/Hero';
 import MissionVission from './../components/MissionVission';
+import MobileTeam from './../components/mobile/MobileTeam';
 
 
 
@@ -15,6 +16,7 @@ const Homepage = () => {
         <Container>
             <Hero />
             <MissionVission />
+            <MobileTeam />
         </Container>
     );
 };

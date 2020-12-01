@@ -1,0 +1,25 @@
+
+[
+   { 
+        "name" : "Dr. Jing Betty Feng",
+        "description" : "Assistant Professor Dept of business Management Farmingdale State College",
+        "img" : "member1",
+        "email": "diegotaveras2@outlook.com",
+        "bio" : "Dr. Jing Betty Feng is Assistant Professor at the Department of Business Management at Farmingdale State College. Dr. Feng teaches courses on International Business, Global Strategy Negotiation, and Innovation in Organizations. Her research interests include the roles of culture in adaptation,    creativity, and intercultural interactions"
+    },
+    {
+        "name" : "Diego Taveras",
+        "description" : "Web Developer                                                                     ",
+        "img" : "member2",
+        "email": "diegotaveras3@outlook.com",
+        "bio" : "Dr. Jing Betty Feng is Assistant Professor at the Department of Business Management at Farmingdale State College. Dr. Feng teaches courses on International Business, Global Strategy Negotiation, and Innovation in Organizations. Her research interests include the roles of culture in adaptation,    creativity, and intercultural interactions"
+    }
+    ,
+    {
+        "name" : "Lidia Riehman",
+        "description" : "Web Designer",
+        "img" : "member3",
+        "email": "diegotaveras2@outlook.com",
+        "bio" : "Dr. Jing Betty Feng is Assistant Professor at the Department of Business Management at Farmingdale State College. Dr. Feng teaches courses on International Business, Global Strategy Negotiation, and Innovation in Organizations. Her research interests include the roles of culture in adaptation,    creativity, and intercultural interactions"
+    }
+]
